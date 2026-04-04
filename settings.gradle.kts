@@ -9,3 +9,6 @@ rootProject.name = "ping"
 
 include("app")
 include("user")
+include("chat")
+include("notification")
+include("commons")
