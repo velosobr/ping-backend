@@ -6,3 +6,6 @@ pluginManagement {
     }
 }
 rootProject.name = "ping"
+
+include("app")
+include("user")
