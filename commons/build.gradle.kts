@@ -1,6 +1,6 @@
 plugins {
     id("java-library")
-    id("chirp.kotlin-common")
+    id("ping.kotlin-common")
     id("org.springframework.boot")
 }
 
